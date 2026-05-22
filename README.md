@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo! 🚀
+#
 
 Olá, eu sou **Rafael Camargo**  
 
@@ -14,26 +14,26 @@ Desde **2020**, venho atuando como **Desenvolvedor Android**, entregando aplicat
 
 Tenho sólida experiência com arquiteturas modernas como **MVVM, MVP** e **Clean Architecture**, além de domínio de ferramentas essenciais do ecossistema Android, como:
 
-- ✅ **Jetpack Components**, **ViewModel**, **LiveData**  
-- 🔌 **Retrofit** e **OkHttp** para consumo de **APIs RESTful**  
-- 💾 **Room**, **SQLite** e **SharedPreferences** para persistência local  
-- 📡 **Bluetooth**, **Firebase**, **Crashlytics** e **Remote Config**  
-- 📦 Injeção de dependência com **Hilt**, **Dagger** e **Koin**  
-- 🧼 Boas práticas com **SOLID**, **Clean Code** e **CI/CD**
+-  **Jetpack Components**, **ViewModel**, **LiveData**  
+-  **Retrofit** e **OkHttp** para consumo de **APIs RESTful**  
+-  **Room**, **SQLite** e **SharedPreferences** para persistência local  
+-  **Bluetooth**, **Firebase**, **Crashlytics** e **Remote Config**  
+-  Injeção de dependência com **Hilt**, **Dagger** e **Koin**  
+-  Boas práticas com **SOLID**, **Clean Code** e **CI/CD**
 
 Sou proativo em ambientes **ágeis (Scrum/Kanban)** e tenho experiência em **trabalho remoto colaborativo com times multidisciplinares**, sempre buscando **clareza, autonomia e entrega contínua**.
 
 ### 🎓 Formação Acadêmica
 
-- ✅ **Técnico em Informática**  
-- 🎓 **Graduado em Análise e Desenvolvimento de Sistemas**  
-- 📚 **Cursando Cybersegurança**
+-  **Técnico em Informática**  
+-  **Graduado em Análise e Desenvolvimento de Sistemas**  
+-  **Cursando Cybersegurança**
 
 Tenho como objetivo continuar evoluindo como profissional de tecnologia, com foco em desenvolver **software seguro, performático e sustentável**, entregando valor real para o usuário final e para o negócio.
 
 ---
 
-## 🛠️ Minhas Stacks
+##  Minhas Stacks
 
 Tecnologias que utilizo no desenvolvimento de aplicativos:
 
